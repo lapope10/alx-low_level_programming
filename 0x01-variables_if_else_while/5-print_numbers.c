@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -16,3 +17,6 @@ int main(void)
 
 	return (0);
 }
+=======
+
+>>>>>>> db92e641116dafe446e8f67d829b3b32c55926db
