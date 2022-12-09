@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 /**
  * main - main block
@@ -26,3 +27,6 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+=======
+
+>>>>>>> b850cc708ec96c3cd6eba93fd3ec4412c438ed10
