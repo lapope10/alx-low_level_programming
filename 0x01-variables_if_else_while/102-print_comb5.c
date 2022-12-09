@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 /**
  * main - create 2 pairs of number
@@ -30,3 +31,6 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+=======
+
+>>>>>>> 5ce1047a9d98c2ab47bd7c1870e1a2484bddacea

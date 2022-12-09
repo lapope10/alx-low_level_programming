@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -53,6 +52,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-=======
-
->>>>>>> 7b81eec38fe0bedd3e1872fc75ef0a588b472be8
