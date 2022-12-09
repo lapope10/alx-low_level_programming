@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -23,3 +24,6 @@ int main(void)
 
 	return (0);
 }
+=======
+
+>>>>>>> 5f0a654ea00840eaa56bf16a1e58058735085cb4
