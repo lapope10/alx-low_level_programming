@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -22,3 +23,6 @@ int main(void)
 		printf("%d is positive\n", n);
 	return (0);
 }
+=======
+
+>>>>>>> e64ca0ebfd2118eb1c74cc9e4b5b9eafaaa8429a
