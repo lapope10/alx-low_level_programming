@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project done during SOFTWARE ENGINEERING STUDIES at ALX AFRICA. Aim: To learn about arithmetic, relational,and boolean operators, comments, declaring variables and loops in C programming language.
 
 #Technologies:
@@ -25,3 +26,6 @@ The following files are programs written in C:
 | 102-fibonacci.c | Prints the first 50 numbers |
 | 103-fibonacci.c | Finds and prints the sum of even valued terms |
 | 104-fibonacci.c | Finds and prints the first 98 Fibonacci numbers |
+=======
+
+>>>>>>> d5ad222a70718d470f585914d04fe6fab407f448
