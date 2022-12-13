@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -13,3 +14,6 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }
+=======
+
+>>>>>>> 2b621f586b233b718893a4666b3f34c5a346d880
