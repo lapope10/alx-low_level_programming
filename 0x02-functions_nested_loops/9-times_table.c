@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -35,3 +36,6 @@ void time_table(void)
 	_putchar('\n');
       }
 }
+=======
+
+>>>>>>> 524e57292f225633ce93e1a344059bd682ebaceb
