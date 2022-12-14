@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include "main.h"
 
@@ -31,3 +32,6 @@ void print_to_98(int n)
 	}
 	}
 }
+=======
+
+>>>>>>> 456a52ed944c5cae9445f1955cc97bf8842d2d88
