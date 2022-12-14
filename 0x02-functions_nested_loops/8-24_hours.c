@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -34,6 +33,3 @@ void jack_bauer(void)
 		i++;
 	}
 }
-=======
-
->>>>>>> 097c26fcfaefccf8d61f56c6ed2a388484e8ae89
