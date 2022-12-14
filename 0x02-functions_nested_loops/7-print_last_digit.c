@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -17,3 +18,6 @@ int print_last_digit(int n)
 	_putchar(a + '0');
 	return (a);
 }
+=======
+
+>>>>>>> 57c3f75c3affdab2cb96a0479d7fbc9058116937
