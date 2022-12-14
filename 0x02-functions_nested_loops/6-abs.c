@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 /**
  * _abs - returns absolute value of an int
@@ -14,3 +15,6 @@ int _abs(int n)
 	}
 	return (n);
 }
+=======
+
+>>>>>>> 494f3f61a610589e6c6424cc65b9a664a53dacb8
