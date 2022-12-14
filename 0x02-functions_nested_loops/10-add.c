@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -13,3 +14,6 @@ int add(int a, int b)
 	c = a + b;
 	return (c);
 }
+=======
+
+>>>>>>> e023d791ad9bf20399cf6e48ee22d9d294bea8a9
