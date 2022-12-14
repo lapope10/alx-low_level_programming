@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -15,6 +14,3 @@ int _islower(int c)
 	else
 		return (0);
 }
-=======
-
->>>>>>> 90dc0338a90c2a52b04e5ae85a0eac08904d9fe8
