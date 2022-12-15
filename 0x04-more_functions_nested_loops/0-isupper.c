@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -14,6 +13,3 @@ int _isupper(int c)
 	}
 	return (0);
 }
-=======
-
->>>>>>> 22fb0a9aad7d51e83a429fe2b3d782fef26d29fa
