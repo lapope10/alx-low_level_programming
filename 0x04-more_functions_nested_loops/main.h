@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef MAIN_H
 #define MAIN_H
 int _putchar(char c);
@@ -13,3 +14,6 @@ void print_square(int size);
 void print_triangle(int size);
 void print_number(int n);
 #endif
+=======
+
+>>>>>>> 22fb0a9aad7d51e83a429fe2b3d782fef26d29fa

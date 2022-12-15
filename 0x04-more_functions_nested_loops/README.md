@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   C - More functions, more nested loops
 
 0. isupper
@@ -139,4 +140,6 @@ You are not allowed to use arrays or pointers
 
 You are not allowed to hard-code special values
 
+=======
+>>>>>>> 22fb0a9aad7d51e83a429fe2b3d782fef26d29fa
 
