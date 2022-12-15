@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -48,3 +49,6 @@ void print_times_table(int n)
 	}
 	}
 }
+=======
+
+>>>>>>> bd484736a8d6904040d435ae78bb9a53d8615972
