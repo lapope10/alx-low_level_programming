@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 #include <stdio.h>
 
@@ -20,6 +19,3 @@ void print_most_numbers(void)
 	}
 	_putchar('\n');
 }
-=======
-
->>>>>>> e67be2fa9fdf160b65be1a86c9307bd6ba038adc
