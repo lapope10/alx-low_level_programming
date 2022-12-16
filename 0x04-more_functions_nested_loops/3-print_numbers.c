@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 #include <stdio.h>
 
@@ -16,3 +17,6 @@ void print_numbers(void)
 	}
 	_putchar('\n');
 }
+=======
+
+>>>>>>> 42d71b82e924ca5909cda10645e5ab2eee2e615e
