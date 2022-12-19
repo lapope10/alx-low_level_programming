@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C - Pointers, arrays and strings
 
 #TASKS
@@ -72,4 +73,6 @@ Create a program that generates random valid passwords for the program 101-crack
 
 You are allowed to use the standard library You don’t have to pass the betty-style tests (you still need to pass the betty-doc tests) man srand, rand, time gdb and objdump can help
 
+=======
+>>>>>>> 763fe24442f9af8283e3be724486c395ae45be6f
 
