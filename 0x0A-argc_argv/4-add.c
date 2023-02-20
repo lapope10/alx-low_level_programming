@@ -15,7 +15,7 @@ int check_num(char *str)
 
 	count = 0;
 	while (count < strlen(str)) /*count string*/
-	
+
 	{
 		if (!isdigit(str[count])) /*check if str there are digit*/
 		{
@@ -38,7 +38,7 @@ int check_num(char *str)
 int main(int argc, char *argv[])
 
 {
-	
+
 	/*Declaring variables*/
 	int count;
 	int str_to_int;
@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
 	while (count < argc) /*Goes through the whole array*/
 	{
 		if (check_num(argv[count]))
-		
+
 		{
 			str_to_int = atoi(argv[count]); /*ATOI --> convert string to int*/
 			sum += str_to_int;
@@ -68,6 +68,3 @@ int main(int argc, char *argv[])
 
 	return (0);
 }
-
-
-
